@@ -1,4 +1,4 @@
-# EligibleAddresses
+# Eligible Addresses
 
 ## Eligible Address List for Starknet DeFi Adventure #1 @zkLend Exclusive NFT
 
