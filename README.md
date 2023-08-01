@@ -1,5 +1,3 @@
-![image](https://github.com/Starknet-Turkiye/EligibleAddresses/assets/84336571/843f2f76-9533-44bd-9765-be8f0d3c93cc)# Eligible Addresses
-
 ## Eligible Address List for Starknet DeFi Adventure #1 @zkLend Exclusive NFT
 
 Download the Eligible Address List: https://github.com/Starknet-Turkiye/EligibleAddresses/blob/main/%231%20-%20zkLend%20-%20Eligible%20Wallets%20List%20(1).xlsx
