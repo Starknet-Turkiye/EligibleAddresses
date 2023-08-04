@@ -8,7 +8,7 @@ Mint from: https://adventure.starknetturkiye.org/
 
 Mint from: https://adventure.starknetturkiye.org/
 
- <img src="https://github.com/TobbyKitty/Starknet-DeFi-Adventure/blob/main/2.jpg?raw=true">
+ <img src="https://github.com/Starknet-Turkiye/Starknet-DeFi-Adventure/blob/main/2.jpg">
 
 
 ## Eligible Address List for Starknet DeFi Adventure #3 @soon Exclusive NFT
